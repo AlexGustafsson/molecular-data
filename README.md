@@ -79,7 +79,7 @@ The file `elementaryParticles` contain just that, information about elementary p
 | quantity | unit | symbol |
 |---|---|---|
 | mass | unified atomic mass unit | u |
-| [spin](https://en.wikipedia.org/wiki/Spin_(physics) | - | - |
+| [spin](https://en.wikipedia.org/wiki/Spin_(physics)) | - | - |
 | radius | piko meters | pm |
 
 ### Contributing
