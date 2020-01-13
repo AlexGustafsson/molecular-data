@@ -6,9 +6,6 @@
 
 The goal of this project is to facilitate easy to use data regarding chemical subjects such as the periodic table. Any and all contribution to add more data to the project is welcome.
 
-For an actual usable library using this data, take a look at [MolecularJS](https://github.com/AlexGustafsson/MolecularJS).
-
-
 ### Available data
 
 As of now, this repository contains data for the periodic table in regard to elements. There are also data for elementary particles. The available elements have been translated to a multitude of languages.
