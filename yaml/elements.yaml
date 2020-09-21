@@ -3,11 +3,11 @@
   symbol: H
   name: Hydrogen
   mass: 1.00794
-  cpkHexColor: FFFFFF
+  cpkHexColor: "#ffffff"
   electronConfiguration: 1
   electronNegativity: 2.2
   radius: 37
-  ionRadius:
+  ionRadius: 
   vanDelWaalsRadius: 120
   ionizationEnergy: 1312
   electronAffinity: -73
@@ -25,18 +25,18 @@
   symbol: He
   name: Helium
   mass: 4.002602
-  cpkHexColor: D9FFFF
+  cpkHexColor: "#d9ffff"
   electronConfiguration: 2
-  electronNegativity:
+  electronNegativity: 
   radius: 32
-  ionRadius:
+  ionRadius: 
   vanDelWaalsRadius: 140
   ionizationEnergy: 2372
   electronAffinity: 0
   oxidationStates: []
   standardState: gas
   bondingType: atomic
-  meltingPoint:
+  meltingPoint: 
   boilingPoint: 4
   density: 0
   family: noble gas
@@ -45,7 +45,7 @@
   symbol: Li
   name: Lithium
   mass: 6.941
-  cpkHexColor: CC80FF
+  cpkHexColor: "#cc80ff"
   electronConfiguration: "[He] 2s1"
   electronNegativity: 0.98
   radius: 134
@@ -66,12 +66,12 @@
   symbol: Be
   name: Beryllium
   mass: 9.012182
-  cpkHexColor: C2FF00
+  cpkHexColor: "#c2ff00"
   electronConfiguration: "[He] 2s2"
   electronNegativity: 1.57
   radius: 90
   ionRadius: 45
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 900
   electronAffinity: 0
   oxidationStates:
@@ -87,12 +87,12 @@
   symbol: B
   name: Boron
   mass: 10.811
-  cpkHexColor: FFB5B5
+  cpkHexColor: "#ffb5b5"
   electronConfiguration: "[He] 2s2 2p1"
   electronNegativity: 2.04
   radius: 82
   ionRadius: 27
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 801
   electronAffinity: -27
   oxidationStates:
@@ -110,7 +110,7 @@
   symbol: C
   name: Carbon
   mass: 12.0107
-  cpkHexColor: 909090
+  cpkHexColor: "#909090"
   electronConfiguration: "[He] 2s2 2p2"
   electronNegativity: 2.55
   radius: 77
@@ -122,7 +122,7 @@
   - -4
   - -3
   - -2
-  -
+  - 
   - 1
   - 2
   - 3
@@ -133,12 +133,12 @@
   boilingPoint: 4300
   density: 2.26
   family: nonmetal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 7
   symbol: N
   name: Nitrogen
   mass: 14.0067
-  cpkHexColor: 3050
+  cpkHexColor: "#3050f8"
   electronConfiguration: "[He] 2s2 2p3"
   electronNegativity: 3.04
   radius: 75
@@ -149,7 +149,7 @@
   oxidationStates:
   - -3
   - -2
-  -
+  - 
   - 1
   - 2
   - 3
@@ -166,7 +166,7 @@
   symbol: O
   name: Oxygen
   mass: 15.9994
-  cpkHexColor: FF0D0D
+  cpkHexColor: "#ff0d0d"
   electronConfiguration: "[He] 2s2 2p4"
   electronNegativity: 3.44
   radius: 73
@@ -176,7 +176,7 @@
   electronAffinity: -141
   oxidationStates:
   - -2
-  -
+  - 
   - 1
   - 2
   standardState: gas
@@ -190,7 +190,7 @@
   symbol: F
   name: Fluorine
   mass: 18.9984032
-  cpkHexColor: 9.0e+51
+  cpkHexColor: "#90e050"
   electronConfiguration: "[He] 2s2 2p5"
   electronNegativity: 3.98
   radius: 71
@@ -211,11 +211,11 @@
   symbol: Ne
   name: Neon
   mass: 20.1797
-  cpkHexColor: B3E3F5
+  cpkHexColor: "#b3e3f5"
   electronConfiguration: "[He] 2s2 2p6"
-  electronNegativity:
+  electronNegativity: 
   radius: 69
-  ionRadius:
+  ionRadius: 
   vanDelWaalsRadius: 154
   ionizationEnergy: 2081
   electronAffinity: 0
@@ -231,7 +231,7 @@
   symbol: Na
   name: Sodium
   mass: 22.98976928
-  cpkHexColor: AB5CF2
+  cpkHexColor: "#ab5cf2"
   electronConfiguration: "[Ne] 3s1"
   electronNegativity: 0.93
   radius: 154
@@ -253,7 +253,7 @@
   symbol: Mg
   name: Magnesium
   mass: 24.305
-  cpkHexColor: 8
+  cpkHexColor: "#8aff00"
   electronConfiguration: "[Ne] 3s2"
   electronNegativity: 1.31
   radius: 130
@@ -275,12 +275,12 @@
   symbol: Al
   name: Aluminum or Aluminium
   mass: 26.9815386
-  cpkHexColor: BFA6A6
+  cpkHexColor: "#bfa6a6"
   electronConfiguration: "[Ne] 3s2 3p1"
   electronNegativity: 1.61
   radius: 118
   ionRadius: 53.5
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 578
   electronAffinity: -43
   oxidationStates:
@@ -292,12 +292,12 @@
   boilingPoint: 2792
   density: 2.7
   family: metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 14
   symbol: Si
   name: Silicon
   mass: 28.0855
-  cpkHexColor: F0C8A0
+  cpkHexColor: "#f0c8a0"
   electronConfiguration: "[Ne] 3s2 3p2"
   electronNegativity: 1.9
   radius: 111
@@ -309,7 +309,7 @@
   - -4
   - -3
   - -2
-  -
+  - 
   - 1
   - 2
   - 3
@@ -325,7 +325,7 @@
   symbol: P
   name: Phosphorus
   mass: 30.973762
-  cpkHexColor: FF8000
+  cpkHexColor: "#ff8000"
   electronConfiguration: "[Ne] 3s2 3p3"
   electronNegativity: 2.19
   radius: 106
@@ -336,7 +336,7 @@
   oxidationStates:
   - -3
   - -2
-  -
+  - 
   - 1
   - 2
   - 3
@@ -353,7 +353,7 @@
   symbol: S
   name: Sulfur
   mass: 32.065
-  cpkHexColor: FFFF30
+  cpkHexColor: "#ffff30"
   electronConfiguration: "[Ne] 3s2 3p4"
   electronNegativity: 2.58
   radius: 102
@@ -363,7 +363,7 @@
   electronAffinity: -200
   oxidationStates:
   - -2
-  -
+  - 
   - 1
   - 2
   - 3
@@ -376,12 +376,12 @@
   boilingPoint: 718
   density: 1.96
   family: nonmetal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 17
   symbol: Cl
   name: Chlorine
   mass: 35.453
-  cpkHexColor: 1
+  cpkHexColor: "#1ff01f"
   electronConfiguration: "[Ne] 3s2 3p5"
   electronNegativity: 3.16
   radius: 99
@@ -409,11 +409,11 @@
   symbol: Ar
   name: Argon
   mass: 39.948
-  cpkHexColor: 80
+  cpkHexColor: "#80d1e3"
   electronConfiguration: "[Ne] 3s2 3p6"
-  electronNegativity:
+  electronNegativity: 
   radius: 97
-  ionRadius:
+  ionRadius: 
   vanDelWaalsRadius: 188
   ionizationEnergy: 1521
   electronAffinity: 0
@@ -429,7 +429,7 @@
   symbol: K
   name: Potassium
   mass: 39.0983
-  cpkHexColor: 8
+  cpkHexColor: "#8f40d4"
   electronConfiguration: "[Ar] 4s1"
   electronNegativity: 0.82
   radius: 196
@@ -450,12 +450,12 @@
   symbol: Ca
   name: Calcium
   mass: 40.078
-  cpkHexColor: 3
+  cpkHexColor: "#3dff00"
   electronConfiguration: "[Ar] 4s2"
   electronNegativity: 1
   radius: 174
   ionRadius: 100
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 590
   electronAffinity: -2
   oxidationStates:
@@ -466,17 +466,17 @@
   boilingPoint: 1757
   density: 1.55
   family: alkaline earth metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 21
   symbol: Sc
   name: Scandium
   mass: 44.955912
-  cpkHexColor: E6E6E6
+  cpkHexColor: "#e6e6e6"
   electronConfiguration: "[Ar] 3d1 4s2"
   electronNegativity: 1.36
   radius: 144
   ionRadius: 74.5
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 633
   electronAffinity: -18
   oxidationStates:
@@ -494,12 +494,12 @@
   symbol: Ti
   name: Titanium
   mass: 47.867
-  cpkHexColor: BFC2C7
+  cpkHexColor: "#bfc2c7"
   electronConfiguration: "[Ar] 3d2 4s2"
   electronNegativity: 1.54
   radius: 136
   ionRadius: 86
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 659
   electronAffinity: -8
   oxidationStates:
@@ -518,12 +518,12 @@
   symbol: V
   name: Vanadium
   mass: 50.9415
-  cpkHexColor: A6A6AB
+  cpkHexColor: "#a6a6ab"
   electronConfiguration: "[Ar] 3d3 4s2"
   electronNegativity: 1.63
   radius: 125
   ionRadius: 79
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 651
   electronAffinity: -51
   oxidationStates:
@@ -542,17 +542,17 @@
   symbol: Cr
   name: Chromium
   mass: 51.9961
-  cpkHexColor: 8
+  cpkHexColor: "#8a99c7"
   electronConfiguration: "[Ar] 3d5 4s1"
   electronNegativity: 1.66
   radius: 127
   ionRadius: 80
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 653
   electronAffinity: -64
   oxidationStates:
   - -2
-  -
+  - 
   - 1
   - 2
   - 3
@@ -565,23 +565,23 @@
   boilingPoint: 2944
   density: 7.14
   family: transition metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 25
   symbol: Mn
   name: Manganese
   mass: 54.938045
-  cpkHexColor: 9
+  cpkHexColor: "#9c7ac7"
   electronConfiguration: "[Ar] 3d5 4s2"
   electronNegativity: 1.55
   radius: 139
   ionRadius: 67
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 717
   electronAffinity: 0
   oxidationStates:
   - -3
   - -2
-  -
+  - 
   - 1
   - 2
   - 3
@@ -600,17 +600,17 @@
   symbol: Fe
   name: Iron
   mass: 55.845
-  cpkHexColor: E06633
+  cpkHexColor: "#e06633"
   electronConfiguration: "[Ar] 3d6 4s2"
   electronNegativity: 1.83
   radius: 125
   ionRadius: 78
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 763
   electronAffinity: -16
   oxidationStates:
   - -2
-  -
+  - 
   - 1
   - 2
   - 3
@@ -623,17 +623,17 @@
   boilingPoint: 3134
   density: 7.87
   family: transition metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 27
   symbol: Co
   name: Cobalt
   mass: 58.933195
-  cpkHexColor: F090A0
+  cpkHexColor: "#f090a0"
   electronConfiguration: "[Ar] 3d7 4s2"
   electronNegativity: 1.88
   radius: 126
   ionRadius: 74.5
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 760
   electronAffinity: -64
   oxidationStates:
@@ -649,12 +649,12 @@
   boilingPoint: 3200
   density: 8.9
   family: transition metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 28
   symbol: Ni
   name: Nickel
   mass: 58.6934
-  cpkHexColor: 50
+  cpkHexColor: "#50d050"
   electronConfiguration: "[Ar] 3d8 4s2"
   electronNegativity: 1.91
   radius: 121
@@ -679,7 +679,7 @@
   symbol: Cu
   name: Copper
   mass: 63.546
-  cpkHexColor: C88033
+  cpkHexColor: "#c88033"
   electronConfiguration: "[Ar] 3d10 4s1"
   electronNegativity: 1.9
   radius: 138
@@ -698,12 +698,12 @@
   boilingPoint: 3200
   density: 8.92
   family: transition metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 30
   symbol: Zn
   name: Zinc
   mass: 65.38
-  cpkHexColor: 7
+  cpkHexColor: "#7d80b0"
   electronConfiguration: "[Ar] 3d10 4s2"
   electronNegativity: 1.65
   radius: 131
@@ -724,7 +724,7 @@
   symbol: Ga
   name: Gallium
   mass: 69.723
-  cpkHexColor: C28F8F
+  cpkHexColor: "#c28f8f"
   electronConfiguration: "[Ar] 3d10 4s2 4p1"
   electronNegativity: 1.81
   radius: 126
@@ -747,12 +747,12 @@
   symbol: Ge
   name: Germanium
   mass: 72.64
-  cpkHexColor: 668
+  cpkHexColor: "#668f8f"
   electronConfiguration: "[Ar] 3d10 4s2 4p2"
   electronNegativity: 2.01
   radius: 122
   ionRadius: 73
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 762
   electronAffinity: -119
   oxidationStates:
@@ -772,7 +772,7 @@
   symbol: As
   name: Arsenic
   mass: 74.9216
-  cpkHexColor: BD80E3
+  cpkHexColor: "#bd80e3"
   electronConfiguration: "[Ar] 3d10 4s2 4p3"
   electronNegativity: 2.18
   radius: 119
@@ -791,12 +791,12 @@
   boilingPoint: 887
   density: 5.73
   family: metalloid
-  yearDiscovered:
+  yearDiscovered: 
 - number: 34
   symbol: Se
   name: Selenium
   mass: 78.96
-  cpkHexColor: FFA100
+  cpkHexColor: "#ffa100"
   electronConfiguration: "[Ar] 3d10 4s2 4p4"
   electronNegativity: 2.55
   radius: 116
@@ -820,7 +820,7 @@
   symbol: Br
   name: Bromine
   mass: 79.904
-  cpkHexColor: A62929
+  cpkHexColor: "#a62929"
   electronConfiguration: "[Ar] 3d10 4s2 4p5"
   electronNegativity: 2.96
   radius: 114
@@ -846,11 +846,11 @@
   symbol: Kr
   name: Krypton
   mass: 83.798
-  cpkHexColor: 5
+  cpkHexColor: "#5cb8d1"
   electronConfiguration: "[Ar] 3d10 4s2 4p6"
-  electronNegativity:
+  electronNegativity: 
   radius: 110
-  ionRadius:
+  ionRadius: 
   vanDelWaalsRadius: 202
   ionizationEnergy: 1351
   electronAffinity: 0
@@ -867,12 +867,12 @@
   symbol: Rb
   name: Rubidium
   mass: 85.4678
-  cpkHexColor: 702
+  cpkHexColor: "#702eb0"
   electronConfiguration: "[Kr] 5s1"
   electronNegativity: 0.82
   radius: 211
   ionRadius: 152
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 403
   electronAffinity: -47
   oxidationStates:
@@ -888,12 +888,12 @@
   symbol: Sr
   name: Strontium
   mass: 87.62
-  cpkHexColor: 0
+  cpkHexColor: "#00ff00"
   electronConfiguration: "[Kr] 5s2"
   electronNegativity: 0.95
   radius: 192
   ionRadius: 118
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 550
   electronAffinity: -5
   oxidationStates:
@@ -909,12 +909,12 @@
   symbol: Y
   name: Yttrium
   mass: 88.90585
-  cpkHexColor: 94
+  cpkHexColor: "#94ffff"
   electronConfiguration: "[Kr] 4d1 5s2"
   electronNegativity: 1.22
   radius: 162
   ionRadius: 90
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 600
   electronAffinity: -30
   oxidationStates:
@@ -932,12 +932,12 @@
   symbol: Zr
   name: Zirconium
   mass: 91.224
-  cpkHexColor: 94
+  cpkHexColor: "#94e0e0"
   electronConfiguration: "[Kr] 4d2 5s2"
   electronNegativity: 1.33
   radius: 148
   ionRadius: 72
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 640
   electronAffinity: -41
   oxidationStates:
@@ -956,12 +956,12 @@
   symbol: Nb
   name: Niobium
   mass: 92.90638
-  cpkHexColor: 73
+  cpkHexColor: "#73c2c9"
   electronConfiguration: "[Kr] 4d4 5s1"
   electronNegativity: 1.6
   radius: 137
   ionRadius: 72
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 652
   electronAffinity: -86
   oxidationStates:
@@ -981,17 +981,17 @@
   symbol: Mo
   name: Molybdenum
   mass: 95.96
-  cpkHexColor: 54
+  cpkHexColor: "#54b5b5"
   electronConfiguration: "[Kr] 4d5 5s1"
   electronNegativity: 2.16
   radius: 145
   ionRadius: 69
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 684
   electronAffinity: -72
   oxidationStates:
   - -2
-  -
+  - 
   - 1
   - 2
   - 3
@@ -1009,17 +1009,17 @@
   symbol: Tc
   name: Technetium
   mass: 98
-  cpkHexColor: 3
+  cpkHexColor: "#3b9e9e"
   electronConfiguration: "[Kr] 4d5 5s2"
   electronNegativity: 1.9
   radius: 156
   ionRadius: 64.5
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 702
   electronAffinity: -53
   oxidationStates:
   - -3
-  -
+  - 
   - 1
   - 2
   - 3
@@ -1038,12 +1038,12 @@
   symbol: Ru
   name: Ruthenium
   mass: 101.07
-  cpkHexColor: 248
+  cpkHexColor: "#248f8f"
   electronConfiguration: "[Kr] 4d7 5s1"
   electronNegativity: 2.2
   radius: 126
   ionRadius: 68
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 710
   electronAffinity: -101
   oxidationStates:
@@ -1067,12 +1067,12 @@
   symbol: Rh
   name: Rhodium
   mass: 102.9055
-  cpkHexColor: 0
+  cpkHexColor: "#0a7d8c"
   electronConfiguration: "[Kr] 4d8 5s1"
   electronNegativity: 2.28
   radius: 135
   ionRadius: 66.5
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 720
   electronAffinity: -110
   oxidationStates:
@@ -1094,7 +1094,7 @@
   symbol: Pd
   name: Palladium
   mass: 106.42
-  cpkHexColor: 6985
+  cpkHexColor: "#006985"
   electronConfiguration: "[Kr] 4d10"
   electronNegativity: 2.2
   radius: 131
@@ -1116,7 +1116,7 @@
   symbol: Ag
   name: Silver
   mass: 107.8682
-  cpkHexColor: C0C0C0
+  cpkHexColor: "#c0c0c0"
   electronConfiguration: "[Kr] 4d10 5s1"
   electronNegativity: 1.93
   radius: 153
@@ -1134,12 +1134,12 @@
   boilingPoint: 2435
   density: 10.49
   family: transition metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 48
   symbol: Cd
   name: Cadmium
   mass: 112.411
-  cpkHexColor: FFD98F
+  cpkHexColor: "#ffd98f"
   electronConfiguration: "[Kr] 4d10 5s2"
   electronNegativity: 1.69
   radius: 148
@@ -1160,7 +1160,7 @@
   symbol: In
   name: Indium
   mass: 114.818
-  cpkHexColor: A67573
+  cpkHexColor: "#a67573"
   electronConfiguration: "[Kr] 4d10 5s2 5p1"
   electronNegativity: 1.78
   radius: 144
@@ -1183,7 +1183,7 @@
   symbol: Sn
   name: Tin
   mass: 118.71
-  cpkHexColor: 668080
+  cpkHexColor: "#668080"
   electronConfiguration: "[Kr] 4d10 5s2 5p2"
   electronNegativity: 1.96
   radius: 141
@@ -1201,17 +1201,17 @@
   boilingPoint: 2875
   density: 7.31
   family: metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 51
   symbol: Sb
   name: Antimony
   mass: 121.76
-  cpkHexColor: 9.0e+63
+  cpkHexColor: "#9e63b5"
   electronConfiguration: "[Kr] 4d10 5s2 5p3"
   electronNegativity: 2.05
   radius: 138
   ionRadius: 76
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 834
   electronAffinity: -103
   oxidationStates:
@@ -1224,12 +1224,12 @@
   boilingPoint: 1860
   density: 6.7
   family: metalloid
-  yearDiscovered:
+  yearDiscovered: 
 - number: 52
   symbol: Te
   name: Tellurium
   mass: 127.6
-  cpkHexColor: D47A00
+  cpkHexColor: "#d47a00"
   electronConfiguration: "[Kr] 4d10 5s2 5p4"
   electronNegativity: 2.1
   radius: 135
@@ -1254,7 +1254,7 @@
   symbol: I
   name: Iodine
   mass: 126.90447
-  cpkHexColor: 940094
+  cpkHexColor: "#940094"
   electronConfiguration: "[Kr] 4d10 5s2 5p5"
   electronNegativity: 2.66
   radius: 133
@@ -1279,9 +1279,9 @@
   symbol: Xe
   name: Xenon
   mass: 131.293
-  cpkHexColor: 429
+  cpkHexColor: "#429eb0"
   electronConfiguration: "[Kr] 4d10 5s2 5p6"
-  electronNegativity:
+  electronNegativity: 
   radius: 130
   ionRadius: 48
   vanDelWaalsRadius: 216
@@ -1303,12 +1303,12 @@
   symbol: Cs
   name: Cesium
   mass: 132.9054519
-  cpkHexColor: 57178
+  cpkHexColor: "#57178f"
   electronConfiguration: "[Xe] 6s1"
   electronNegativity: 0.79
   radius: 225
   ionRadius: 167
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 376
   electronAffinity: -46
   oxidationStates:
@@ -1324,12 +1324,12 @@
   symbol: Ba
   name: Barium
   mass: 137.327
-  cpkHexColor: 0
+  cpkHexColor: "#00c900"
   electronConfiguration: "[Xe] 6s2"
   electronNegativity: 0.89
   radius: 198
   ionRadius: 135
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 503
   electronAffinity: -14
   oxidationStates:
@@ -1345,12 +1345,12 @@
   symbol: La
   name: Lanthanum
   mass: 138.90547
-  cpkHexColor: 70
+  cpkHexColor: "#70d4ff"
   electronConfiguration: "[Xe] 5d1 6s2"
   electronNegativity: 1.1
   radius: 169
   ionRadius: 103.2
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 538
   electronAffinity: -48
   oxidationStates:
@@ -1367,12 +1367,12 @@
   symbol: Ce
   name: Cerium
   mass: 140.116
-  cpkHexColor: FFFFC7
+  cpkHexColor: "#ffffc7"
   electronConfiguration: "[Xe] 4f1 5d1 6s2"
   electronNegativity: 1.12
-  radius:
+  radius: 
   ionRadius: 102
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 534
   electronAffinity: -50
   oxidationStates:
@@ -1390,12 +1390,12 @@
   symbol: Pr
   name: Praseodymium
   mass: 140.90765
-  cpkHexColor: D9FFC7
+  cpkHexColor: "#d9ffc7"
   electronConfiguration: "[Xe] 4f3 6s2"
   electronNegativity: 1.13
-  radius:
+  radius: 
   ionRadius: 99
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 527
   electronAffinity: -50
   oxidationStates:
@@ -1413,12 +1413,12 @@
   symbol: Nd
   name: Neodymium
   mass: 144.242
-  cpkHexColor: C7FFC7
+  cpkHexColor: "#c7ffc7"
   electronConfiguration: "[Xe] 4f4 6s2"
   electronNegativity: 1.14
-  radius:
+  radius: 
   ionRadius: 129
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 533
   electronAffinity: -50
   oxidationStates:
@@ -1435,12 +1435,12 @@
   symbol: Pm
   name: Promethium
   mass: 145
-  cpkHexColor: A3FFC7
+  cpkHexColor: "#a3ffc7"
   electronConfiguration: "[Xe] 4f5 6s2"
   electronNegativity: 1.13
-  radius:
+  radius: 
   ionRadius: 97
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 540
   electronAffinity: -50
   oxidationStates:
@@ -1456,12 +1456,12 @@
   symbol: Sm
   name: Samarium
   mass: 150.36
-  cpkHexColor: 8
+  cpkHexColor: "#8fffc7"
   electronConfiguration: "[Xe] 4f6 6s2"
   electronNegativity: 1.17
-  radius:
+  radius: 
   ionRadius: 122
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 545
   electronAffinity: -50
   oxidationStates:
@@ -1478,12 +1478,12 @@
   symbol: Eu
   name: Europium
   mass: 151.964
-  cpkHexColor: 61
+  cpkHexColor: "#61ffc7"
   electronConfiguration: "[Xe] 4f7 6s2"
   electronNegativity: 1.2
-  radius:
+  radius: 
   ionRadius: 117
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 547
   electronAffinity: -50
   oxidationStates:
@@ -1500,12 +1500,12 @@
   symbol: Gd
   name: Gadolinium
   mass: 157.25
-  cpkHexColor: 45
+  cpkHexColor: "#45ffc7"
   electronConfiguration: "[Xe] 4f7 5d1 6s2"
   electronNegativity: 1.2
-  radius:
+  radius: 
   ionRadius: 93.8
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 593
   electronAffinity: -50
   oxidationStates:
@@ -1523,12 +1523,12 @@
   symbol: Tb
   name: Terbium
   mass: 158.92535
-  cpkHexColor: 30
+  cpkHexColor: "#30ffc7"
   electronConfiguration: "[Xe] 4f9 6s2"
   electronNegativity: 1.2
-  radius:
+  radius: 
   ionRadius: 92.3
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 566
   electronAffinity: -50
   oxidationStates:
@@ -1546,12 +1546,12 @@
   symbol: Dy
   name: Dysprosium
   mass: 162.5
-  cpkHexColor: 1
+  cpkHexColor: "#1fffc7"
   electronConfiguration: "[Xe] 4f10 6s2"
   electronNegativity: 1.22
-  radius:
+  radius: 
   ionRadius: 107
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 573
   electronAffinity: -50
   oxidationStates:
@@ -1568,12 +1568,12 @@
   symbol: Ho
   name: Holmium
   mass: 164.93032
-  cpkHexColor: 0
+  cpkHexColor: "#00ff9c"
   electronConfiguration: "[Xe] 4f11 6s2"
   electronNegativity: 1.23
-  radius:
+  radius: 
   ionRadius: 90.1
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 581
   electronAffinity: -50
   oxidationStates:
@@ -1589,12 +1589,12 @@
   symbol: Er
   name: Erbium
   mass: 167.259
-  cpkHexColor: 0
+  cpkHexColor: "#00e675"
   electronConfiguration: "[Xe] 4f12 6s2"
   electronNegativity: 1.24
-  radius:
+  radius: 
   ionRadius: 89
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 589
   electronAffinity: -50
   oxidationStates:
@@ -1610,12 +1610,12 @@
   symbol: Tm
   name: Thulium
   mass: 168.93421
-  cpkHexColor: 0
+  cpkHexColor: "#00d452"
   electronConfiguration: "[Xe] 4f13 6s2"
   electronNegativity: 1.25
-  radius:
+  radius: 
   ionRadius: 103
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 597
   electronAffinity: -50
   oxidationStates:
@@ -1632,12 +1632,12 @@
   symbol: Yb
   name: Ytterbium
   mass: 173.054
-  cpkHexColor: 0
+  cpkHexColor: "#00bf38"
   electronConfiguration: "[Xe] 4f14 6s2"
   electronNegativity: 1.1
-  radius:
+  radius: 
   ionRadius: 102
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 603
   electronAffinity: -50
   oxidationStates:
@@ -1654,12 +1654,12 @@
   symbol: Lu
   name: Lutetium
   mass: 174.9668
-  cpkHexColor: 0
+  cpkHexColor: "#00ab24"
   electronConfiguration: "[Xe] 4f14 5d1 6s2"
   electronNegativity: 1.27
   radius: 160
   ionRadius: 86.1
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 524
   electronAffinity: -50
   oxidationStates:
@@ -1675,12 +1675,12 @@
   symbol: Hf
   name: Hafnium
   mass: 178.49
-  cpkHexColor: 4
+  cpkHexColor: "#4dc2ff"
   electronConfiguration: "[Xe] 4f14 5d2 6s2"
   electronNegativity: 1.3
   radius: 150
   ionRadius: 71
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 659
   electronAffinity: 0
   oxidationStates:
@@ -1698,12 +1698,12 @@
   symbol: Ta
   name: Tantalum
   mass: 180.94788
-  cpkHexColor: 4
+  cpkHexColor: "#4da6ff"
   electronConfiguration: "[Xe] 4f14 5d3 6s2"
   electronNegativity: 1.5
   radius: 138
   ionRadius: 72
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 761
   electronAffinity: -31
   oxidationStates:
@@ -1723,17 +1723,17 @@
   symbol: W
   name: Tungsten
   mass: 183.84
-  cpkHexColor: 2194
+  cpkHexColor: "#2194d6"
   electronConfiguration: "[Xe] 4f14 5d4 6s2"
   electronNegativity: 2.36
   radius: 146
   ionRadius: 66
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 770
   electronAffinity: -79
   oxidationStates:
   - -2
-  -
+  - 
   - 1
   - 2
   - 3
@@ -1751,17 +1751,17 @@
   symbol: Re
   name: Rhenium
   mass: 186.207
-  cpkHexColor: 267
+  cpkHexColor: "#267dab"
   electronConfiguration: "[Xe] 4f14 5d5 6s2"
   electronNegativity: 1.9
   radius: 159
   ionRadius: 63
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 760
   electronAffinity: -15
   oxidationStates:
   - -3
-  -
+  - 
   - 1
   - 2
   - 3
@@ -1780,17 +1780,17 @@
   symbol: Os
   name: Osmium
   mass: 190.23
-  cpkHexColor: 266696
+  cpkHexColor: "#266696"
   electronConfiguration: "[Xe] 4f14 5d6 6s2"
   electronNegativity: 2.2
   radius: 128
   ionRadius: 63
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 840
   electronAffinity: -106
   oxidationStates:
   - -2
-  -
+  - 
   - 1
   - 2
   - 3
@@ -1810,17 +1810,17 @@
   symbol: Ir
   name: Iridium
   mass: 192.217
-  cpkHexColor: 175487
+  cpkHexColor: "#175487"
   electronConfiguration: "[Xe] 4f14 5d7 6s2"
   electronNegativity: 2.2
   radius: 137
   ionRadius: 68
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 880
   electronAffinity: -151
   oxidationStates:
   - -3
-  -
+  - 
   - 1
   - 2
   - 3
@@ -1838,7 +1838,7 @@
   symbol: Pt
   name: Platinum
   mass: 195.084
-  cpkHexColor: D0D0E0
+  cpkHexColor: "#d0d0e0"
   electronConfiguration: "[Xe] 4f14 5d9 6s1"
   electronNegativity: 2.28
   radius: 128
@@ -1857,12 +1857,12 @@
   boilingPoint: 4098
   density: 21.09
   family: transition metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 79
   symbol: Au
   name: Gold
   mass: 196.966569
-  cpkHexColor: FFD123
+  cpkHexColor: "#ffd123"
   electronConfiguration: "[Xe] 4f14 5d10 6s1"
   electronNegativity: 2.54
   radius: 144
@@ -1882,12 +1882,12 @@
   boilingPoint: 3129
   density: 19.3
   family: transition metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 80
   symbol: Hg
   name: Mercury
   mass: 200.59
-  cpkHexColor: B8B8D0
+  cpkHexColor: "#b8b8d0"
   electronConfiguration: "[Xe] 4f14 5d10 6s2"
   electronNegativity: 2
   radius: 149
@@ -1905,12 +1905,12 @@
   boilingPoint: 630
   density: 13.53
   family: transition metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 81
   symbol: Tl
   name: Thallium
   mass: 204.3833
-  cpkHexColor: A6544D
+  cpkHexColor: "#a6544d"
   electronConfiguration: "[Xe] 4f14 5d10 6s2 6p1"
   electronNegativity: 2.04
   radius: 148
@@ -1932,7 +1932,7 @@
   symbol: Pb
   name: Lead
   mass: 207.2
-  cpkHexColor: 575961
+  cpkHexColor: "#575961"
   electronConfiguration: "[Xe] 4f14 5d10 6s2 6p2"
   electronNegativity: 2.33
   radius: 147
@@ -1950,17 +1950,17 @@
   boilingPoint: 2022
   density: 11.34
   family: metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 83
   symbol: Bi
   name: Bismuth
   mass: 208.9804
-  cpkHexColor: 90000
+  cpkHexColor: "#9e4fb5"
   electronConfiguration: "[Xe] 4f14 5d10 6s2 6p3"
   electronNegativity: 2.02
   radius: 146
   ionRadius: 103
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 703
   electronAffinity: -91
   oxidationStates:
@@ -1973,17 +1973,17 @@
   boilingPoint: 1837
   density: 9.78
   family: metal
-  yearDiscovered:
+  yearDiscovered: 
 - number: 84
   symbol: Po
   name: Polonium
   mass: 209
-  cpkHexColor: AB5C00
+  cpkHexColor: "#ab5c00"
   electronConfiguration: "[Xe] 4f14 5d10 6s2 6p4"
   electronNegativity: 2
-  radius:
+  radius: 
   ionRadius: 94
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 812
   electronAffinity: -183
   oxidationStates:
@@ -2002,12 +2002,12 @@
   symbol: At
   name: Astatine
   mass: 210
-  cpkHexColor: 754
+  cpkHexColor: "#754f45"
   electronConfiguration: "[Xe] 4f14 5d10 6s2 6p5"
   electronNegativity: 2.2
-  radius:
+  radius: 
   ionRadius: 62
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 920
   electronAffinity: -270
   oxidationStates:
@@ -2018,22 +2018,22 @@
   standardState: solid
   bondingType: covalent network
   meltingPoint: 575
-  boilingPoint:
-  density:
+  boilingPoint: 
+  density: 
   family: halogen
   yearDiscovered: 1940
 - number: 86
   symbol: Rn
   name: Radon
   mass: 222
-  cpkHexColor: 428296
+  cpkHexColor: "#428296"
   electronConfiguration: "[Xe] 4f14 5d10 6s2 6p6"
-  electronNegativity:
+  electronNegativity: 
   radius: 145
-  ionRadius:
-  vanDelWaalsRadius:
+  ionRadius: 
+  vanDelWaalsRadius: 
   ionizationEnergy: 1037
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 2
   standardState: gas
@@ -2047,35 +2047,35 @@
   symbol: Fr
   name: Francium
   mass: 223
-  cpkHexColor: 420066
+  cpkHexColor: "#420066"
   electronConfiguration: "[Rn] 7s1"
   electronNegativity: 0.7
-  radius:
+  radius: 
   ionRadius: 180
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 380
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 1
   standardState: solid
   bondingType: metallic
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: alkali metal
   yearDiscovered: 1939
 - number: 88
   symbol: Ra
   name: Radium
   mass: 226
-  cpkHexColor: 7
+  cpkHexColor: "#007d00"
   electronConfiguration: "[Rn] 7s2"
   electronNegativity: 0.9
-  radius:
+  radius: 
   ionRadius: 148
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 509
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 2
   standardState: solid
@@ -2089,14 +2089,14 @@
   symbol: Ac
   name: Actinium
   mass: 227
-  cpkHexColor: 70
+  cpkHexColor: "#70abfa"
   electronConfiguration: "[Rn] 6d1 7s2"
   electronNegativity: 1.1
-  radius:
+  radius: 
   ionRadius: 112
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 499
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 3
   standardState: solid
@@ -2110,14 +2110,14 @@
   symbol: Th
   name: Thorium
   mass: 232.03806
-  cpkHexColor: 0
+  cpkHexColor: "#00baff"
   electronConfiguration: "[Rn] 6d2 7s2"
   electronNegativity: 1.3
-  radius:
+  radius: 
   ionRadius: 94
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 587
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 2
   - 3
@@ -2133,14 +2133,14 @@
   symbol: Pa
   name: Protactinium
   mass: 231.03588
-  cpkHexColor: 0
+  cpkHexColor: "#00a1ff"
   electronConfiguration: "[Rn] 5f2 6d1 7s2"
   electronNegativity: 1.5
-  radius:
+  radius: 
   ionRadius: 104
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 568
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 3
   - 4
@@ -2156,14 +2156,14 @@
   symbol: U
   name: Uranium
   mass: 238.02891
-  cpkHexColor: 8
+  cpkHexColor: "#008fff"
   electronConfiguration: "[Rn] 5f3 6d1 7s2"
   electronNegativity: 1.38
-  radius:
+  radius: 
   ionRadius: 102.5
   vanDelWaalsRadius: 186
   ionizationEnergy: 598
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 3
   - 4
@@ -2180,14 +2180,14 @@
   symbol: Np
   name: Neptunium
   mass: 237
-  cpkHexColor: 80
+  cpkHexColor: "#0080ff"
   electronConfiguration: "[Rn] 5f4 6d1 7s2"
   electronNegativity: 1.36
-  radius:
+  radius: 
   ionRadius: 110
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 605
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 3
   - 4
@@ -2205,14 +2205,14 @@
   symbol: Pu
   name: Plutonium
   mass: 244
-  cpkHexColor: 6
+  cpkHexColor: "#006bff"
   electronConfiguration: "[Rn] 5f6 7s2"
   electronNegativity: 1.28
-  radius:
+  radius: 
   ionRadius: 100
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 585
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 3
   - 4
@@ -2230,14 +2230,14 @@
   symbol: Am
   name: Americium
   mass: 243
-  cpkHexColor: 545
+  cpkHexColor: "#545cf2"
   electronConfiguration: "[Rn] 5f7 7s2"
   electronNegativity: 1.3
-  radius:
+  radius: 
   ionRadius: 126
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 578
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 2
   - 3
@@ -2255,14 +2255,14 @@
   symbol: Cm
   name: Curium
   mass: 247
-  cpkHexColor: 785
+  cpkHexColor: "#785ce3"
   electronConfiguration: "[Rn] 5f7 6d1 7s2"
   electronNegativity: 1.3
-  radius:
+  radius: 
   ionRadius: 97
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 581
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 3
   - 4
@@ -2277,21 +2277,21 @@
   symbol: Bk
   name: Berkelium
   mass: 247
-  cpkHexColor: 8
+  cpkHexColor: "#8a4fe3"
   electronConfiguration: "[Rn] 5f9 7s2"
   electronNegativity: 1.3
-  radius:
+  radius: 
   ionRadius: 96
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 601
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 3
   - 4
   standardState: solid
   bondingType: metallic
   meltingPoint: 1323
-  boilingPoint:
+  boilingPoint: 
   density: 14.78
   family: actinoid
   yearDiscovered: 1949
@@ -2299,14 +2299,14 @@
   symbol: Cf
   name: Californium
   mass: 251
-  cpkHexColor: A136D4
+  cpkHexColor: "#a136d4"
   electronConfiguration: "[Rn] 5f10 7s2"
   electronNegativity: 1.3
-  radius:
+  radius: 
   ionRadius: 95
-  vanDelWaalsRadius:
+  vanDelWaalsRadius: 
   ionizationEnergy: 608
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 2
   - 3
@@ -2314,7 +2314,7 @@
   standardState: solid
   bondingType: metallic
   meltingPoint: 1173
-  boilingPoint:
+  boilingPoint: 
   density: 15.1
   family: actinoid
   yearDiscovered: 1950
@@ -2322,409 +2322,409 @@
   symbol: Es
   name: Einsteinium
   mass: 252
-  cpkHexColor: B31FD4
+  cpkHexColor: "#b31fd4"
   electronConfiguration: "[Rn] 5f11 7s2"
   electronNegativity: 1.3
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
   ionizationEnergy: 619
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 2
   - 3
   standardState: solid
   bondingType: ''
   meltingPoint: 1133
-  boilingPoint:
-  density:
+  boilingPoint: 
+  density: 
   family: actinoid
   yearDiscovered: 1952
 - number: 100
   symbol: Fm
   name: Fermium
   mass: 257
-  cpkHexColor: B31FBA
+  cpkHexColor: "#b31fba"
   electronConfiguration: "[Rn] 5f12 7s2"
   electronNegativity: 1.3
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
   ionizationEnergy: 627
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 2
   - 3
   standardState: ''
   bondingType: ''
   meltingPoint: 1800
-  boilingPoint:
-  density:
+  boilingPoint: 
+  density: 
   family: actinoid
   yearDiscovered: 1952
 - number: 101
   symbol: Md
   name: Mendelevium
   mass: 258
-  cpkHexColor: B30DA6
+  cpkHexColor: "#b30da6"
   electronConfiguration: "[Rn] 5f13 7s2"
   electronNegativity: 1.3
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
   ionizationEnergy: 635
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 2
   - 3
   standardState: ''
   bondingType: ''
   meltingPoint: 1100
-  boilingPoint:
-  density:
+  boilingPoint: 
+  density: 
   family: actinoid
   yearDiscovered: 1955
 - number: 102
   symbol: 'No'
   name: Nobelium
   mass: 259
-  cpkHexColor: BD0D87
+  cpkHexColor: "#bd0d87"
   electronConfiguration: "[Rn] 5f14 7s2"
   electronNegativity: 1.3
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
   ionizationEnergy: 642
-  electronAffinity:
+  electronAffinity: 
   oxidationStates:
   - 2
   - 3
   standardState: ''
   bondingType: ''
   meltingPoint: 1100
-  boilingPoint:
-  density:
+  boilingPoint: 
+  density: 
   family: actinoid
   yearDiscovered: 1957
 - number: 103
   symbol: Lr
   name: Lawrencium
   mass: 262
-  cpkHexColor: C70066
+  cpkHexColor: "#c70066"
   electronConfiguration: "[Rn] 5f14 7s2 7p1"
   electronNegativity: 1.3
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates:
   - 3
   standardState: ''
   bondingType: ''
   meltingPoint: 1900
-  boilingPoint:
-  density:
+  boilingPoint: 
+  density: 
   family: transition metal
   yearDiscovered: 1961
 - number: 104
   symbol: Rf
   name: Rutherfordium
   mass: 267
-  cpkHexColor: CC0059
+  cpkHexColor: "#cc0059"
   electronConfiguration: "[Rn] 5f14 6d2 7s2"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates:
   - 4
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: transition metal
   yearDiscovered: 1969
 - number: 105
   symbol: Db
   name: Dubnium
   mass: 268
-  cpkHexColor: D1004F
+  cpkHexColor: "#d1004f"
   electronConfiguration: "[Rn].5f14.6d3.7s2"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: transition metal
   yearDiscovered: 1967
 - number: 106
   symbol: Sg
   name: Seaborgium
   mass: 271
-  cpkHexColor: D90045
+  cpkHexColor: "#d90045"
   electronConfiguration: "[Rn].5f14.6d4.7s2"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: transition metal
   yearDiscovered: 1974
 - number: 107
   symbol: Bh
   name: Bohrium
   mass: 272
-  cpkHexColor: E00038
+  cpkHexColor: "#e00038"
   electronConfiguration: "[Rn].5f14.6d5.7s2"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: transition metal
   yearDiscovered: 1976
 - number: 108
   symbol: Hs
   name: Hassium
   mass: 270
-  cpkHexColor: E6002E
+  cpkHexColor: "#e6002e"
   electronConfiguration: "[Rn].5f14.6d6.7s2"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: transition metal
   yearDiscovered: 1984
 - number: 109
   symbol: Mt
   name: Meitnerium
   mass: 276
-  cpkHexColor: EB0026
+  cpkHexColor: "#eb0026"
   electronConfiguration: "[Rn].5f14.6d7.7s2"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: transition metal
   yearDiscovered: 1982
 - number: 110
   symbol: Ds
   name: Darmstadtium
   mass: 281
-  cpkHexColor:
+  cpkHexColor: 
   electronConfiguration: "[Rn].5f14.6d9.7s1"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: transition metal
   yearDiscovered: 1994
 - number: 111
   symbol: Rg
   name: Roentgenium
   mass: 280
-  cpkHexColor:
+  cpkHexColor: 
   electronConfiguration: "[Rn].5f14.6d10.7s1"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: transition metal
   yearDiscovered: 1994
 - number: 112
   symbol: Cn
   name: Copernicium
   mass: 285
-  cpkHexColor:
+  cpkHexColor: 
   electronConfiguration: "[Rn].5f14.6d10.7s2"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: transition metal
   yearDiscovered: 1996
 - number: 113
   symbol: Uut
   name: Ununtrium
   mass: 284
-  cpkHexColor:
+  cpkHexColor: 
   electronConfiguration: "[Rn].5f14.6d10.7s2.7p1"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: metal
   yearDiscovered: 2003
 - number: 114
   symbol: Uuq
   name: Ununquadium
   mass: 289
-  cpkHexColor:
+  cpkHexColor: 
   electronConfiguration: "[Rn].5f14.6d10.7s2.7p2"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: metal
   yearDiscovered: 1998
 - number: 115
   symbol: Uup
   name: Ununpentium
   mass: 288
-  cpkHexColor:
+  cpkHexColor: 
   electronConfiguration: "[Rn].5f14.6d10.7s2.7p3"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
   ionizationEnergy: 
-  electronAffinity:
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: halogen
   yearDiscovered: 2003
 - number: 116
   symbol: Uuh
   name: Ununhexium
   mass: 293
-  cpkHexColor:
+  cpkHexColor: 
   electronConfiguration: "[Rn].5f14.6d10.7s2.7p4"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: noble gas
   yearDiscovered: 2000
 - number: 117
   symbol: Uus
   name: Ununseptium
-  mass:
-  cpkHexColor:
+  mass: 
+  cpkHexColor: 
   electronConfiguration: "[Rn].5f14.6d10.7s2.7p5"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: alkali metal
   yearDiscovered: 2010
 - number: 118
   symbol: Uuo
   name: Ununoctium
   mass: 294
-  cpkHexColor:
+  cpkHexColor: 
   electronConfiguration: "[Rn].5f14.6d10.7s2.7p6"
-  electronNegativity:
-  radius:
-  ionRadius:
-  vanDelWaalsRadius:
-  ionizationEnergy:
-  electronAffinity:
+  electronNegativity: 
+  radius: 
+  ionRadius: 
+  vanDelWaalsRadius: 
+  ionizationEnergy: 
+  electronAffinity: 
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint:
-  boilingPoint:
-  density:
+  meltingPoint: 
+  boilingPoint: 
+  density: 
   family: alkaline earth metal
   yearDiscovered: 2002
