@@ -2,8 +2,8 @@
 
 ##### `Elements`
 
-This data file is based on the work of andrejewski. His license permit modification and distribution,
-for as long as the copyright clame is included in every copy.
+This data file is based on the work of Andrejewski. His license permits modification and distribution,
+for as long as the copyright claim is included in every copy.
 
 Copyright (c) 2015, Chris Andrejewski <christopher.andrejewski@gmail.com>
 
