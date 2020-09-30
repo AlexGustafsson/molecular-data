@@ -7,7 +7,7 @@
   electronConfiguration: 1
   electronNegativity: 2.2
   radius: 37
-  ionRadius: 
+  ionRadius: null
   vanDelWaalsRadius: 120
   ionizationEnergy: 1312
   electronAffinity: -73
@@ -27,16 +27,16 @@
   mass: 4.002602
   cpkHexColor: "#d9ffff"
   electronConfiguration: 2
-  electronNegativity: 
+  electronNegativity: null
   radius: 32
-  ionRadius: 
+  ionRadius: null
   vanDelWaalsRadius: 140
   ionizationEnergy: 2372
   electronAffinity: 0
   oxidationStates: []
   standardState: gas
   bondingType: atomic
-  meltingPoint: 
+  meltingPoint: null
   boilingPoint: 4
   density: 0
   family: noble gas
@@ -71,7 +71,7 @@
   electronNegativity: 1.57
   radius: 90
   ionRadius: 45
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 900
   electronAffinity: 0
   oxidationStates:
@@ -92,7 +92,7 @@
   electronNegativity: 2.04
   radius: 82
   ionRadius: 27
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 801
   electronAffinity: -27
   oxidationStates:
@@ -133,7 +133,7 @@
   boilingPoint: 4300
   density: 2.26
   family: nonmetal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 7
   symbol: N
   name: Nitrogen
@@ -213,9 +213,9 @@
   mass: 20.1797
   cpkHexColor: "#b3e3f5"
   electronConfiguration: "[He] 2s2 2p6"
-  electronNegativity: 
+  electronNegativity: null
   radius: 69
-  ionRadius: 
+  ionRadius: null
   vanDelWaalsRadius: 154
   ionizationEnergy: 2081
   electronAffinity: 0
@@ -280,7 +280,7 @@
   electronNegativity: 1.61
   radius: 118
   ionRadius: 53.5
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 578
   electronAffinity: -43
   oxidationStates:
@@ -292,7 +292,7 @@
   boilingPoint: 2792
   density: 2.7
   family: metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 14
   symbol: Si
   name: Silicon
@@ -376,7 +376,7 @@
   boilingPoint: 718
   density: 1.96
   family: nonmetal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 17
   symbol: Cl
   name: Chlorine
@@ -411,9 +411,9 @@
   mass: 39.948
   cpkHexColor: "#80d1e3"
   electronConfiguration: "[Ne] 3s2 3p6"
-  electronNegativity: 
+  electronNegativity: null
   radius: 97
-  ionRadius: 
+  ionRadius: null
   vanDelWaalsRadius: 188
   ionizationEnergy: 1521
   electronAffinity: 0
@@ -455,7 +455,7 @@
   electronNegativity: 1
   radius: 174
   ionRadius: 100
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 590
   electronAffinity: -2
   oxidationStates:
@@ -466,7 +466,7 @@
   boilingPoint: 1757
   density: 1.55
   family: alkaline earth metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 21
   symbol: Sc
   name: Scandium
@@ -476,7 +476,7 @@
   electronNegativity: 1.36
   radius: 144
   ionRadius: 74.5
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 633
   electronAffinity: -18
   oxidationStates:
@@ -499,7 +499,7 @@
   electronNegativity: 1.54
   radius: 136
   ionRadius: 86
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 659
   electronAffinity: -8
   oxidationStates:
@@ -523,7 +523,7 @@
   electronNegativity: 1.63
   radius: 125
   ionRadius: 79
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 651
   electronAffinity: -51
   oxidationStates:
@@ -547,7 +547,7 @@
   electronNegativity: 1.66
   radius: 127
   ionRadius: 80
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 653
   electronAffinity: -64
   oxidationStates:
@@ -565,7 +565,7 @@
   boilingPoint: 2944
   density: 7.14
   family: transition metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 25
   symbol: Mn
   name: Manganese
@@ -575,7 +575,7 @@
   electronNegativity: 1.55
   radius: 139
   ionRadius: 67
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 717
   electronAffinity: 0
   oxidationStates:
@@ -605,7 +605,7 @@
   electronNegativity: 1.83
   radius: 125
   ionRadius: 78
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 763
   electronAffinity: -16
   oxidationStates:
@@ -623,7 +623,7 @@
   boilingPoint: 3134
   density: 7.87
   family: transition metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 27
   symbol: Co
   name: Cobalt
@@ -633,7 +633,7 @@
   electronNegativity: 1.88
   radius: 126
   ionRadius: 74.5
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 760
   electronAffinity: -64
   oxidationStates:
@@ -649,7 +649,7 @@
   boilingPoint: 3200
   density: 8.9
   family: transition metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 28
   symbol: Ni
   name: Nickel
@@ -698,7 +698,7 @@
   boilingPoint: 3200
   density: 8.92
   family: transition metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 30
   symbol: Zn
   name: Zinc
@@ -752,7 +752,7 @@
   electronNegativity: 2.01
   radius: 122
   ionRadius: 73
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 762
   electronAffinity: -119
   oxidationStates:
@@ -791,7 +791,7 @@
   boilingPoint: 887
   density: 5.73
   family: metalloid
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 34
   symbol: Se
   name: Selenium
@@ -848,9 +848,9 @@
   mass: 83.798
   cpkHexColor: "#5cb8d1"
   electronConfiguration: "[Ar] 3d10 4s2 4p6"
-  electronNegativity: 
+  electronNegativity: null
   radius: 110
-  ionRadius: 
+  ionRadius: null
   vanDelWaalsRadius: 202
   ionizationEnergy: 1351
   electronAffinity: 0
@@ -872,7 +872,7 @@
   electronNegativity: 0.82
   radius: 211
   ionRadius: 152
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 403
   electronAffinity: -47
   oxidationStates:
@@ -893,7 +893,7 @@
   electronNegativity: 0.95
   radius: 192
   ionRadius: 118
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 550
   electronAffinity: -5
   oxidationStates:
@@ -914,7 +914,7 @@
   electronNegativity: 1.22
   radius: 162
   ionRadius: 90
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 600
   electronAffinity: -30
   oxidationStates:
@@ -937,7 +937,7 @@
   electronNegativity: 1.33
   radius: 148
   ionRadius: 72
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 640
   electronAffinity: -41
   oxidationStates:
@@ -961,7 +961,7 @@
   electronNegativity: 1.6
   radius: 137
   ionRadius: 72
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 652
   electronAffinity: -86
   oxidationStates:
@@ -986,7 +986,7 @@
   electronNegativity: 2.16
   radius: 145
   ionRadius: 69
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 684
   electronAffinity: -72
   oxidationStates:
@@ -1014,7 +1014,7 @@
   electronNegativity: 1.9
   radius: 156
   ionRadius: 64.5
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 702
   electronAffinity: -53
   oxidationStates:
@@ -1043,7 +1043,7 @@
   electronNegativity: 2.2
   radius: 126
   ionRadius: 68
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 710
   electronAffinity: -101
   oxidationStates:
@@ -1072,7 +1072,7 @@
   electronNegativity: 2.28
   radius: 135
   ionRadius: 66.5
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 720
   electronAffinity: -110
   oxidationStates:
@@ -1134,7 +1134,7 @@
   boilingPoint: 2435
   density: 10.49
   family: transition metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 48
   symbol: Cd
   name: Cadmium
@@ -1201,7 +1201,7 @@
   boilingPoint: 2875
   density: 7.31
   family: metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 51
   symbol: Sb
   name: Antimony
@@ -1211,7 +1211,7 @@
   electronNegativity: 2.05
   radius: 138
   ionRadius: 76
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 834
   electronAffinity: -103
   oxidationStates:
@@ -1224,7 +1224,7 @@
   boilingPoint: 1860
   density: 6.7
   family: metalloid
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 52
   symbol: Te
   name: Tellurium
@@ -1281,7 +1281,7 @@
   mass: 131.293
   cpkHexColor: "#429eb0"
   electronConfiguration: "[Kr] 4d10 5s2 5p6"
-  electronNegativity: 
+  electronNegativity: null
   radius: 130
   ionRadius: 48
   vanDelWaalsRadius: 216
@@ -1308,7 +1308,7 @@
   electronNegativity: 0.79
   radius: 225
   ionRadius: 167
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 376
   electronAffinity: -46
   oxidationStates:
@@ -1329,7 +1329,7 @@
   electronNegativity: 0.89
   radius: 198
   ionRadius: 135
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 503
   electronAffinity: -14
   oxidationStates:
@@ -1350,7 +1350,7 @@
   electronNegativity: 1.1
   radius: 169
   ionRadius: 103.2
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 538
   electronAffinity: -48
   oxidationStates:
@@ -1370,9 +1370,9 @@
   cpkHexColor: "#ffffc7"
   electronConfiguration: "[Xe] 4f1 5d1 6s2"
   electronNegativity: 1.12
-  radius: 
+  radius: null
   ionRadius: 102
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 534
   electronAffinity: -50
   oxidationStates:
@@ -1393,9 +1393,9 @@
   cpkHexColor: "#d9ffc7"
   electronConfiguration: "[Xe] 4f3 6s2"
   electronNegativity: 1.13
-  radius: 
+  radius: null
   ionRadius: 99
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 527
   electronAffinity: -50
   oxidationStates:
@@ -1416,9 +1416,9 @@
   cpkHexColor: "#c7ffc7"
   electronConfiguration: "[Xe] 4f4 6s2"
   electronNegativity: 1.14
-  radius: 
+  radius: null
   ionRadius: 129
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 533
   electronAffinity: -50
   oxidationStates:
@@ -1438,9 +1438,9 @@
   cpkHexColor: "#a3ffc7"
   electronConfiguration: "[Xe] 4f5 6s2"
   electronNegativity: 1.13
-  radius: 
+  radius: null
   ionRadius: 97
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 540
   electronAffinity: -50
   oxidationStates:
@@ -1459,9 +1459,9 @@
   cpkHexColor: "#8fffc7"
   electronConfiguration: "[Xe] 4f6 6s2"
   electronNegativity: 1.17
-  radius: 
+  radius: null
   ionRadius: 122
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 545
   electronAffinity: -50
   oxidationStates:
@@ -1481,9 +1481,9 @@
   cpkHexColor: "#61ffc7"
   electronConfiguration: "[Xe] 4f7 6s2"
   electronNegativity: 1.2
-  radius: 
+  radius: null
   ionRadius: 117
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 547
   electronAffinity: -50
   oxidationStates:
@@ -1503,9 +1503,9 @@
   cpkHexColor: "#45ffc7"
   electronConfiguration: "[Xe] 4f7 5d1 6s2"
   electronNegativity: 1.2
-  radius: 
+  radius: null
   ionRadius: 93.8
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 593
   electronAffinity: -50
   oxidationStates:
@@ -1526,9 +1526,9 @@
   cpkHexColor: "#30ffc7"
   electronConfiguration: "[Xe] 4f9 6s2"
   electronNegativity: 1.2
-  radius: 
+  radius: null
   ionRadius: 92.3
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 566
   electronAffinity: -50
   oxidationStates:
@@ -1549,9 +1549,9 @@
   cpkHexColor: "#1fffc7"
   electronConfiguration: "[Xe] 4f10 6s2"
   electronNegativity: 1.22
-  radius: 
+  radius: null
   ionRadius: 107
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 573
   electronAffinity: -50
   oxidationStates:
@@ -1571,9 +1571,9 @@
   cpkHexColor: "#00ff9c"
   electronConfiguration: "[Xe] 4f11 6s2"
   electronNegativity: 1.23
-  radius: 
+  radius: null
   ionRadius: 90.1
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 581
   electronAffinity: -50
   oxidationStates:
@@ -1592,9 +1592,9 @@
   cpkHexColor: "#00e675"
   electronConfiguration: "[Xe] 4f12 6s2"
   electronNegativity: 1.24
-  radius: 
+  radius: null
   ionRadius: 89
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 589
   electronAffinity: -50
   oxidationStates:
@@ -1613,9 +1613,9 @@
   cpkHexColor: "#00d452"
   electronConfiguration: "[Xe] 4f13 6s2"
   electronNegativity: 1.25
-  radius: 
+  radius: null
   ionRadius: 103
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 597
   electronAffinity: -50
   oxidationStates:
@@ -1635,9 +1635,9 @@
   cpkHexColor: "#00bf38"
   electronConfiguration: "[Xe] 4f14 6s2"
   electronNegativity: 1.1
-  radius: 
+  radius: null
   ionRadius: 102
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 603
   electronAffinity: -50
   oxidationStates:
@@ -1659,7 +1659,7 @@
   electronNegativity: 1.27
   radius: 160
   ionRadius: 86.1
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 524
   electronAffinity: -50
   oxidationStates:
@@ -1680,7 +1680,7 @@
   electronNegativity: 1.3
   radius: 150
   ionRadius: 71
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 659
   electronAffinity: 0
   oxidationStates:
@@ -1703,7 +1703,7 @@
   electronNegativity: 1.5
   radius: 138
   ionRadius: 72
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 761
   electronAffinity: -31
   oxidationStates:
@@ -1728,7 +1728,7 @@
   electronNegativity: 2.36
   radius: 146
   ionRadius: 66
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 770
   electronAffinity: -79
   oxidationStates:
@@ -1756,7 +1756,7 @@
   electronNegativity: 1.9
   radius: 159
   ionRadius: 63
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 760
   electronAffinity: -15
   oxidationStates:
@@ -1785,7 +1785,7 @@
   electronNegativity: 2.2
   radius: 128
   ionRadius: 63
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 840
   electronAffinity: -106
   oxidationStates:
@@ -1815,7 +1815,7 @@
   electronNegativity: 2.2
   radius: 137
   ionRadius: 68
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 880
   electronAffinity: -151
   oxidationStates:
@@ -1857,7 +1857,7 @@
   boilingPoint: 4098
   density: 21.09
   family: transition metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 79
   symbol: Au
   name: Gold
@@ -1882,7 +1882,7 @@
   boilingPoint: 3129
   density: 19.3
   family: transition metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 80
   symbol: Hg
   name: Mercury
@@ -1905,7 +1905,7 @@
   boilingPoint: 630
   density: 13.53
   family: transition metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 81
   symbol: Tl
   name: Thallium
@@ -1950,7 +1950,7 @@
   boilingPoint: 2022
   density: 11.34
   family: metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 83
   symbol: Bi
   name: Bismuth
@@ -1960,7 +1960,7 @@
   electronNegativity: 2.02
   radius: 146
   ionRadius: 103
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 703
   electronAffinity: -91
   oxidationStates:
@@ -1973,7 +1973,7 @@
   boilingPoint: 1837
   density: 9.78
   family: metal
-  yearDiscovered: 
+  yearDiscovered: null
 - number: 84
   symbol: Po
   name: Polonium
@@ -1981,9 +1981,9 @@
   cpkHexColor: "#ab5c00"
   electronConfiguration: "[Xe] 4f14 5d10 6s2 6p4"
   electronNegativity: 2
-  radius: 
+  radius: null
   ionRadius: 94
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 812
   electronAffinity: -183
   oxidationStates:
@@ -2005,9 +2005,9 @@
   cpkHexColor: "#754f45"
   electronConfiguration: "[Xe] 4f14 5d10 6s2 6p5"
   electronNegativity: 2.2
-  radius: 
+  radius: null
   ionRadius: 62
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 920
   electronAffinity: -270
   oxidationStates:
@@ -2018,8 +2018,8 @@
   standardState: solid
   bondingType: covalent network
   meltingPoint: 575
-  boilingPoint: 
-  density: 
+  boilingPoint: null
+  density: null
   family: halogen
   yearDiscovered: 1940
 - number: 86
@@ -2028,12 +2028,12 @@
   mass: 222
   cpkHexColor: "#428296"
   electronConfiguration: "[Xe] 4f14 5d10 6s2 6p6"
-  electronNegativity: 
+  electronNegativity: null
   radius: 145
-  ionRadius: 
-  vanDelWaalsRadius: 
+  ionRadius: null
+  vanDelWaalsRadius: null
   ionizationEnergy: 1037
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 2
   standardState: gas
@@ -2050,18 +2050,18 @@
   cpkHexColor: "#420066"
   electronConfiguration: "[Rn] 7s1"
   electronNegativity: 0.7
-  radius: 
+  radius: null
   ionRadius: 180
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 380
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 1
   standardState: solid
   bondingType: metallic
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: alkali metal
   yearDiscovered: 1939
 - number: 88
@@ -2071,11 +2071,11 @@
   cpkHexColor: "#007d00"
   electronConfiguration: "[Rn] 7s2"
   electronNegativity: 0.9
-  radius: 
+  radius: null
   ionRadius: 148
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 509
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 2
   standardState: solid
@@ -2092,11 +2092,11 @@
   cpkHexColor: "#70abfa"
   electronConfiguration: "[Rn] 6d1 7s2"
   electronNegativity: 1.1
-  radius: 
+  radius: null
   ionRadius: 112
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 499
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 3
   standardState: solid
@@ -2113,11 +2113,11 @@
   cpkHexColor: "#00baff"
   electronConfiguration: "[Rn] 6d2 7s2"
   electronNegativity: 1.3
-  radius: 
+  radius: null
   ionRadius: 94
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 587
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 2
   - 3
@@ -2136,11 +2136,11 @@
   cpkHexColor: "#00a1ff"
   electronConfiguration: "[Rn] 5f2 6d1 7s2"
   electronNegativity: 1.5
-  radius: 
+  radius: null
   ionRadius: 104
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 568
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 3
   - 4
@@ -2159,11 +2159,11 @@
   cpkHexColor: "#008fff"
   electronConfiguration: "[Rn] 5f3 6d1 7s2"
   electronNegativity: 1.38
-  radius: 
+  radius: null
   ionRadius: 102.5
   vanDelWaalsRadius: 186
   ionizationEnergy: 598
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 3
   - 4
@@ -2183,11 +2183,11 @@
   cpkHexColor: "#0080ff"
   electronConfiguration: "[Rn] 5f4 6d1 7s2"
   electronNegativity: 1.36
-  radius: 
+  radius: null
   ionRadius: 110
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 605
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 3
   - 4
@@ -2208,11 +2208,11 @@
   cpkHexColor: "#006bff"
   electronConfiguration: "[Rn] 5f6 7s2"
   electronNegativity: 1.28
-  radius: 
+  radius: null
   ionRadius: 100
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 585
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 3
   - 4
@@ -2233,11 +2233,11 @@
   cpkHexColor: "#545cf2"
   electronConfiguration: "[Rn] 5f7 7s2"
   electronNegativity: 1.3
-  radius: 
+  radius: null
   ionRadius: 126
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 578
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 2
   - 3
@@ -2258,11 +2258,11 @@
   cpkHexColor: "#785ce3"
   electronConfiguration: "[Rn] 5f7 6d1 7s2"
   electronNegativity: 1.3
-  radius: 
+  radius: null
   ionRadius: 97
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 581
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 3
   - 4
@@ -2280,18 +2280,18 @@
   cpkHexColor: "#8a4fe3"
   electronConfiguration: "[Rn] 5f9 7s2"
   electronNegativity: 1.3
-  radius: 
+  radius: null
   ionRadius: 96
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 601
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 3
   - 4
   standardState: solid
   bondingType: metallic
   meltingPoint: 1323
-  boilingPoint: 
+  boilingPoint: null
   density: 14.78
   family: actinoid
   yearDiscovered: 1949
@@ -2302,11 +2302,11 @@
   cpkHexColor: "#a136d4"
   electronConfiguration: "[Rn] 5f10 7s2"
   electronNegativity: 1.3
-  radius: 
+  radius: null
   ionRadius: 95
-  vanDelWaalsRadius: 
+  vanDelWaalsRadius: null
   ionizationEnergy: 608
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 2
   - 3
@@ -2314,7 +2314,7 @@
   standardState: solid
   bondingType: metallic
   meltingPoint: 1173
-  boilingPoint: 
+  boilingPoint: null
   density: 15.1
   family: actinoid
   yearDiscovered: 1950
@@ -2325,19 +2325,19 @@
   cpkHexColor: "#b31fd4"
   electronConfiguration: "[Rn] 5f11 7s2"
   electronNegativity: 1.3
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
   ionizationEnergy: 619
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 2
   - 3
   standardState: solid
   bondingType: ''
   meltingPoint: 1133
-  boilingPoint: 
-  density: 
+  boilingPoint: null
+  density: null
   family: actinoid
   yearDiscovered: 1952
 - number: 100
@@ -2347,19 +2347,19 @@
   cpkHexColor: "#b31fba"
   electronConfiguration: "[Rn] 5f12 7s2"
   electronNegativity: 1.3
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
   ionizationEnergy: 627
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 2
   - 3
   standardState: ''
   bondingType: ''
   meltingPoint: 1800
-  boilingPoint: 
-  density: 
+  boilingPoint: null
+  density: null
   family: actinoid
   yearDiscovered: 1952
 - number: 101
@@ -2369,19 +2369,19 @@
   cpkHexColor: "#b30da6"
   electronConfiguration: "[Rn] 5f13 7s2"
   electronNegativity: 1.3
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
   ionizationEnergy: 635
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 2
   - 3
   standardState: ''
   bondingType: ''
   meltingPoint: 1100
-  boilingPoint: 
-  density: 
+  boilingPoint: null
+  density: null
   family: actinoid
   yearDiscovered: 1955
 - number: 102
@@ -2391,19 +2391,19 @@
   cpkHexColor: "#bd0d87"
   electronConfiguration: "[Rn] 5f14 7s2"
   electronNegativity: 1.3
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
   ionizationEnergy: 642
-  electronAffinity: 
+  electronAffinity: null
   oxidationStates:
   - 2
   - 3
   standardState: ''
   bondingType: ''
   meltingPoint: 1100
-  boilingPoint: 
-  density: 
+  boilingPoint: null
+  density: null
   family: actinoid
   yearDiscovered: 1957
 - number: 103
@@ -2413,18 +2413,18 @@
   cpkHexColor: "#c70066"
   electronConfiguration: "[Rn] 5f14 7s2 7p1"
   electronNegativity: 1.3
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates:
   - 3
   standardState: ''
   bondingType: ''
   meltingPoint: 1900
-  boilingPoint: 
-  density: 
+  boilingPoint: null
+  density: null
   family: transition metal
   yearDiscovered: 1961
 - number: 104
@@ -2433,19 +2433,19 @@
   mass: 267
   cpkHexColor: "#cc0059"
   electronConfiguration: "[Rn] 5f14 6d2 7s2"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates:
   - 4
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: transition metal
   yearDiscovered: 1969
 - number: 105
@@ -2454,18 +2454,18 @@
   mass: 268
   cpkHexColor: "#d1004f"
   electronConfiguration: "[Rn].5f14.6d3.7s2"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: transition metal
   yearDiscovered: 1967
 - number: 106
@@ -2474,18 +2474,18 @@
   mass: 271
   cpkHexColor: "#d90045"
   electronConfiguration: "[Rn].5f14.6d4.7s2"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: transition metal
   yearDiscovered: 1974
 - number: 107
@@ -2494,18 +2494,18 @@
   mass: 272
   cpkHexColor: "#e00038"
   electronConfiguration: "[Rn].5f14.6d5.7s2"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: transition metal
   yearDiscovered: 1976
 - number: 108
@@ -2514,18 +2514,18 @@
   mass: 270
   cpkHexColor: "#e6002e"
   electronConfiguration: "[Rn].5f14.6d6.7s2"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: transition metal
   yearDiscovered: 1984
 - number: 109
@@ -2534,197 +2534,197 @@
   mass: 276
   cpkHexColor: "#eb0026"
   electronConfiguration: "[Rn].5f14.6d7.7s2"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: transition metal
   yearDiscovered: 1982
 - number: 110
   symbol: Ds
   name: Darmstadtium
   mass: 281
-  cpkHexColor: 
+  cpkHexColor: null
   electronConfiguration: "[Rn].5f14.6d9.7s1"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: transition metal
   yearDiscovered: 1994
 - number: 111
   symbol: Rg
   name: Roentgenium
   mass: 280
-  cpkHexColor: 
+  cpkHexColor: null
   electronConfiguration: "[Rn].5f14.6d10.7s1"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: transition metal
   yearDiscovered: 1994
 - number: 112
   symbol: Cn
   name: Copernicium
   mass: 285
-  cpkHexColor: 
+  cpkHexColor: null
   electronConfiguration: "[Rn].5f14.6d10.7s2"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: transition metal
   yearDiscovered: 1996
 - number: 113
   symbol: Uut
   name: Ununtrium
   mass: 284
-  cpkHexColor: 
+  cpkHexColor: null
   electronConfiguration: "[Rn].5f14.6d10.7s2.7p1"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: metal
   yearDiscovered: 2003
 - number: 114
   symbol: Uuq
   name: Ununquadium
   mass: 289
-  cpkHexColor: 
+  cpkHexColor: null
   electronConfiguration: "[Rn].5f14.6d10.7s2.7p2"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: metal
   yearDiscovered: 1998
 - number: 115
   symbol: Uup
   name: Ununpentium
   mass: 288
-  cpkHexColor: 
+  cpkHexColor: null
   electronConfiguration: "[Rn].5f14.6d10.7s2.7p3"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: halogen
   yearDiscovered: 2003
 - number: 116
   symbol: Uuh
   name: Ununhexium
   mass: 293
-  cpkHexColor: 
+  cpkHexColor: null
   electronConfiguration: "[Rn].5f14.6d10.7s2.7p4"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: noble gas
   yearDiscovered: 2000
 - number: 117
   symbol: Uus
   name: Ununseptium
-  mass: 
-  cpkHexColor: 
+  mass: null
+  cpkHexColor: null
   electronConfiguration: "[Rn].5f14.6d10.7s2.7p5"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: alkali metal
   yearDiscovered: 2010
 - number: 118
   symbol: Uuo
   name: Ununoctium
   mass: 294
-  cpkHexColor: 
+  cpkHexColor: null
   electronConfiguration: "[Rn].5f14.6d10.7s2.7p6"
-  electronNegativity: 
-  radius: 
-  ionRadius: 
-  vanDelWaalsRadius: 
-  ionizationEnergy: 
-  electronAffinity: 
+  electronNegativity: null
+  radius: null
+  ionRadius: null
+  vanDelWaalsRadius: null
+  ionizationEnergy: null
+  electronAffinity: null
   oxidationStates: []
   standardState: ''
   bondingType: ''
-  meltingPoint: 
-  boilingPoint: 
-  density: 
+  meltingPoint: null
+  boilingPoint: null
+  density: null
   family: alkaline earth metal
   yearDiscovered: 2002
