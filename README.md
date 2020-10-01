@@ -83,6 +83,10 @@ The file `elementaryParticles` contain just that, information about elementary p
 
 Any help with the project is more than welcome. If you're unable to add a change yourself, open an issue and let someone else take a look at it.
 
+#### Contributions
+
+* [JayHales](https://github.com/JayHales) cleaned up the color codes, fixed some spelling errors and corrected the YAML conversion.
+
 ### Disclaimer
 
 _The data available is not verified by a knowledgeable person after compilation. As such, there might be cases when the data is not correct. There is also the possibility of outdated data since it hasn't been updated recently._
