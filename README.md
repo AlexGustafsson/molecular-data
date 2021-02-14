@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/banner.png" alt="Banner">
+</p>
+
 # Chemical data for all your elements need
 ### Localized, extended periodic table and more in multiple formats
 ***
