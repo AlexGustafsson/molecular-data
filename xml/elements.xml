@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <elements>
   <element>
-    <number>1</number>
+    <number>1</numbe
     <symbol>H</symbol>
     <name>Hydrogen</name>
     <mass>1.00794</mass>
@@ -1360,7 +1360,7 @@
   <element>
     <number>55</number>
     <symbol>Cs</symbol>
-    <name>Cesium</name>
+    <name>Caesium</name>
     <mass>132.9054519</mass>
     <cpkHexColor>#57178f</cpkHexColor>
     <electronConfiguration>[Xe] 6s1</electronConfiguration>
