@@ -1360,7 +1360,7 @@
   <element>
     <number>55</number>
     <symbol>Cs</symbol>
-    <name>Cesium</name>
+    <name>Caesium</name>
     <mass>132.9054519</mass>
     <cpkHexColor>#57178f</cpkHexColor>
     <electronConfiguration>[Xe] 6s1</electronConfiguration>
@@ -1743,7 +1743,7 @@
     <meltingPoint>1936</meltingPoint>
     <boilingPoint>3675</boilingPoint>
     <density>9.84</density>
-    <family>transition metal</family>
+    <family>lanthanoid</family>
     <yearDiscovered>1907</yearDiscovered>
   </element>
   <element>
@@ -2531,7 +2531,7 @@
     <meltingPoint>1900</meltingPoint>
     <boilingPoint/>
     <density/>
-    <family>transition metal</family>
+    <family>actinoid</family>
     <yearDiscovered>1961</yearDiscovered>
   </element>
   <element>
@@ -2734,8 +2734,8 @@
   </element>
   <element>
     <number>113</number>
-    <symbol>Uut</symbol>
-    <name>Ununtrium</name>
+    <symbol>Nh</symbol>
+    <name>Nihonium</name>
     <mass>284</mass>
     <cpkHexColor/>
     <electronConfiguration>[Rn].5f14.6d10.7s2.7p1</electronConfiguration>
@@ -2751,13 +2751,13 @@
     <meltingPoint/>
     <boilingPoint/>
     <density/>
-    <family>metal</family>
+    <family>unknown</family>
     <yearDiscovered>2003</yearDiscovered>
   </element>
   <element>
     <number>114</number>
-    <symbol>Uuq</symbol>
-    <name>Ununquadium</name>
+    <symbol>Fl</symbol>
+    <name>Flerovium</name>
     <mass>289</mass>
     <cpkHexColor/>
     <electronConfiguration>[Rn].5f14.6d10.7s2.7p2</electronConfiguration>
@@ -2773,13 +2773,13 @@
     <meltingPoint/>
     <boilingPoint/>
     <density/>
-    <family>metal</family>
+    <family>unknown</family>
     <yearDiscovered>1998</yearDiscovered>
   </element>
   <element>
     <number>115</number>
-    <symbol>Uup</symbol>
-    <name>Ununpentium</name>
+    <symbol>Mc</symbol>
+    <name>Moscovium</name>
     <mass>288</mass>
     <cpkHexColor/>
     <electronConfiguration>[Rn].5f14.6d10.7s2.7p3</electronConfiguration>
@@ -2795,13 +2795,13 @@
     <meltingPoint/>
     <boilingPoint/>
     <density/>
-    <family>halogen</family>
+    <family>unknown</family>
     <yearDiscovered>2003</yearDiscovered>
   </element>
   <element>
     <number>116</number>
-    <symbol>Uuh</symbol>
-    <name>Ununhexium</name>
+    <symbol>Lv</symbol>
+    <name>Livermorium</name>
     <mass>293</mass>
     <cpkHexColor/>
     <electronConfiguration>[Rn].5f14.6d10.7s2.7p4</electronConfiguration>
@@ -2817,13 +2817,13 @@
     <meltingPoint/>
     <boilingPoint/>
     <density/>
-    <family>noble gas</family>
+    <family>unknown</family>
     <yearDiscovered>2000</yearDiscovered>
   </element>
   <element>
     <number>117</number>
-    <symbol>Uus</symbol>
-    <name>Ununseptium</name>
+    <symbol>Ts</symbol>
+    <name>Tennessine</name>
     <mass/>
     <cpkHexColor/>
     <electronConfiguration>[Rn].5f14.6d10.7s2.7p5</electronConfiguration>
@@ -2839,13 +2839,13 @@
     <meltingPoint/>
     <boilingPoint/>
     <density/>
-    <family>alkali metal</family>
+    <family>unknown</family>
     <yearDiscovered>2010</yearDiscovered>
   </element>
   <element>
     <number>118</number>
-    <symbol>Uuo</symbol>
-    <name>Ununoctium</name>
+    <symbol>Og</symbol>
+    <name>Oganesson</name>
     <mass>294</mass>
     <cpkHexColor/>
     <electronConfiguration>[Rn].5f14.6d10.7s2.7p6</electronConfiguration>
@@ -2861,7 +2861,7 @@
     <meltingPoint/>
     <boilingPoint/>
     <density/>
-    <family>alkaline earth metal</family>
+    <family>unknown</family>
     <yearDiscovered>2002</yearDiscovered>
   </element>
 </elements>
